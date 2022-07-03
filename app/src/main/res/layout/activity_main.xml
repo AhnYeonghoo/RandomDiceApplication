@@ -17,6 +17,7 @@
         android:layout_height="200dp">
 
         <TextView
+            android:fontFamily="@font/bmjua_ttf"
             android:layout_height="wrap_content"
             android:layout_width="match_parent"
             android:textSize="38sp"
